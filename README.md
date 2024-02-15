@@ -1,3 +1,2 @@
-# bot-inglish
-Telegram bot for learning English has several levels, easy, normal and hard, each level has its own words. Copy my bot, but if you change my bot, leave a piece of me in this code
-When developing the bot, I used the telebot library. The bot is completely written in Python.
+<h1>bot-inglish  </h1>
+<h2> Бот для изучения англискоготя зыка был зделан для моей сестры как пкурсовая работа по прогрпмированию , было написанно несколько уровней сложности легкий средний и сложный для каждого уровня была своя картика также как и для группы слов </h2>
